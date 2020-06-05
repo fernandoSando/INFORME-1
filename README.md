@@ -1,4 +1,3 @@
-# INFORME-1
 # INFORME
 
 ## OBJETIVOS
