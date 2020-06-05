@@ -264,4 +264,4 @@ Ricárdez, A., Bastién Montoya, M., Hernández, B., & H. S., R. S. (2017). Estr
 
 ## **ANEXOS**
 
-https://github.com/fernandoSando/Informe/tree/master/Anexos
+https://github.com/fernandoSando/INFORME-1/tree/master/Anexos
