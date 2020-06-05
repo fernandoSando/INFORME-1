@@ -28,6 +28,7 @@ Como todo lo que existe tiene una inicio, en este caso Robert es el padre de lo 
    </section>
    Nodos: Punto en el que se conectan dos o más elementos de un circuito.
 Lazos: Camino que da la corriente.
+
 Ramas: La unión de 2 nodos.
 
 **Primera Ley (Ley de Corrientes de Kirchhoff)**
@@ -57,6 +58,7 @@ Ramas: La unión de 2 nodos.
         />           
    </div>
    </section>
+   
 𝑉𝑡 = 𝑉1 +𝑉2 + 𝑉3 + ⋯  𝑉𝑛
 
 ## **DESCRIPCIÓN DE LOS EQUIPOS Y MATERIALES**
@@ -108,6 +110,7 @@ Ramas: La unión de 2 nodos.
 ## **PROCEDIMIENTO**
 
 Arme el circuito que se muestra en la figura 1.1.
+
 </section>
       <div class="container mt-5 mb-5">
         <img src="img/9.PNG"
@@ -151,6 +154,7 @@ Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerra
 |**VR4(V)** |2.13[V]      |2.12[V]   |-            |-          |2.18[V]      |2.12[V]|
 |**VR5(V)** |3.69[V]      |3.70[V]   |3.69[V]      |3.70[V]    |-            |-|
 |$$\sum V\:$$|20.015[V]   |20.09[V]  |20[V]        |20[V]      |20.06[V]     |18.49[V]|
+
 
 Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla.
 
