@@ -153,7 +153,7 @@ Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerra
 |**VR3(V)** |2.13[V]      |2.12[V]   |-            |-          |2.18[V]      |2.12[V]|
 |**VR4(V)** |2.13[V]      |2.12[V]   |-            |-          |2.18[V]      |2.12[V]|
 |**VR5(V)** |3.69[V]      |3.70[V]   |3.69[V]      |3.70[V]    |-            |-|
-|$$\sum V\:$$|20.015[V]   |20.09[V]  |20[V]        |20[V]      |20.06[V]     |18.49[V]|
+|Σ  V|20.015[V]   |20.09[V]  |20[V]        |20[V]      |20.06[V]     |18.49[V]|
 
 
 Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla.
@@ -170,7 +170,7 @@ Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando c
 |**IR3(mA)**  |0.967[mA] |0.95[mA]|0.967[mA]|0.95[mA]|-|-|0.967[mA]|0.95[mA]|-|-|
 |**IR4(mA)**  |0.967[mA] |0.95[mA]|0.967[mA]|0.95[mA]|-|-|0.967[mA]|0.95[mA]|-|-|
 |**IR5(mA)**  |2.057[mA] |2.05[mA]|2.057[mA]|2.05[mA]|-|-|-|-|2.057[mA] |2.05[mA]|
-|$$\sum I\:$$ |9.192[mA] |9.14[mA]|9.1926[mA]|9.14[mA]|4.114[mA]|4.1[mA]|3.9[mA]|3.97[mA]|4.11[mA] |4.1[mA]|
+|Σ  I|9.192[mA] |9.14[mA]|9.1926[mA]|9.14[mA]|4.114[mA]|4.1[mA]|3.9[mA]|3.97[mA]|4.11[mA] |4.1[mA]|
 
 
 ## **DIAGRAMAS**
